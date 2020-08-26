@@ -16,3 +16,6 @@ In this program, I learned about how to build View in an Activity using Relative
 
 ## My RecyclerView
 I learned how to build a Recycler view with this program. It's more applicable and mostly used than ListView.
+
+## My Manga List
+I made an application that use all of the lesson that I've learned before. I also learned splash screen and add it to the application for additional feature.
