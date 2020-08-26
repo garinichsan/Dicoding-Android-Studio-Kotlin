@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">My Manga List</string>
+    <string name="manga_title">Manga Title</string>
+    <string name="detail">Detail</string>
+    <string name="garin">Garin Ichsan Nugraha</string>
+    <string name="email">garin.kra@gmail.com</string>
+    <string name="about_me">About Me</string>
+    <string name="logo">Logo</string>
+</resources>
